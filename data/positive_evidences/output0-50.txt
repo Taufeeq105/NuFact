@@ -1,0 +1,799 @@
+++++++++++++query+++++++++++++++
+In March 2017 , Sudhir & Samir Mehta 's net worth was estimated at US$ 4 billion .
++++++++++++++++++++++++++++
+[samir, living, biography, businessman, gujarati, learn, pharmaceuticals, sidebar, talk]
+
+++++++++++++query+++++++++++++++
+In 2001 , the Chile conglomerate Quiñenco group bought 59.3 % share of the company through the subsidiary company LQIF and took control of the bank .
++++++++++++++++++++++++++++
+[chile, chilean, country, national, pdf, south, its, spanish, american, has, santiago, president, also, america, government, population, international, most, del, between]https://en.wikipedia.org/wiki/Banco_de_Chile
+[ citation needed ] in 2001 , the chile conglomerate quiñenco group bought 59.3 % share of the company through the subsidiary company lqif and took control of the bank .
+trustworthiness:0.6
+
+
+++++++++++++query+++++++++++++++
+In January 2008 , The Wine Group announced that it would purchase Almaden Vineyards , the Inglenook label , and the Paul Masson Winery in Madera from Constellation Brands for $ 134 million in cash .
++++++++++++++++++++++++++++
+[]https://en.wikipedia.org/wiki/Inglenook_(winery)
+[ 9 ] in january 2008 , the wine group announced that it would purchase almaden vineyards , the inglenook label , and the paul masson winery in madera , california from constellation brands for $ 134 million in cash .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+Oakland 's University of Pittsburgh erected what today is still the world 's fourth - tallest educational building , the 42 - story Cathedral of Learning .
++++++++++++++++++++++++++++
+[oakland, california, bay, francisco, cities, area, census, its, alameda, district]https://www.tour.pitt.edu/tour-categories/tour-categories/research-labs
+dedicated in 1921 , eberly hall was designed by architect benno janssen , who also designed such oakland neighborhood landmarks as the pittsburgh athletic association building , mellon institute of industrial research , and pitt ’s alumni hall .
+trustworthiness:0.3
+https://www.tour.pitt.edu/tour-categories/tour-categories/research-labs
+victoria hall is a historic building located in oakland that has served as the home of the university of pittsburgh ’s top - ranked school of nursing since 1978 .
+trustworthiness:0.3
+https://www.tour.pitt.edu/tour-categories/tour-categories/research-labs
+upmc ’s oakland facilities include upmc presbyterian and upmc montefiore hospitals , magee - womens hospital of upmc , the kaufman building , falk clinic , the eye and ear institute of pittsburgh , and detre hall .
+trustworthiness:0.3
+https://en.wikipedia.org/wiki/Oakland_(Pittsburgh)
+wqed , pittsburgh 's pbs station and the first community - sponsored television station in the united states , has been located in oakland since 1954 , although it moved from its original building to a new , larger one in 1970 .
+trustworthiness:0.6
+https://catalog.upp.pitt.edu/content.php?catoid=188&navoid=17773
+there are more than 100 academic , research , and administrative buildings and residence halls located on the pittsburgh campus , which covers 132 acres in the culturally rich oakland neighborhood .
+trustworthiness:0.2
+https://medium.com/@bhakti1711/how-buildings-learn-wip-619bd89e845e
+col is a part of the university of pittsburgh ’s main campus in the oakland neighbourhood of pittsburgh , pennsylvania , united states and towers above the surrounding buildings to this day .
+trustworthiness:0.2
+
+
+++++++++++++query+++++++++++++++
+The " George Jenkins Arena " in the Lakeland Center opened in 1974 as a multipurpose entertainment facility with seating for 10,000 .
++++++++++++++++++++++++++++
+[indoor, theatre, soccer, venues, performing, stadium, champions, division, rowdies, finalist]https://en.wikipedia.org/wiki/George_W._Jenkins
+[ 18 ] the george jenkins arena in the lakeland center opened in 1974 as a multipurpose entertainment facility with seating for 10,000 .
+trustworthiness:0.0
+https://alchetron.com/George-W-Jenkins
+the george jenkins arena in the lakeland center opened in 1974 as a multipurpose entertainment facility with seating for 10,000 .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In 2005 , Hurricane Stan caused the region to lose 65 % of its banana crop , mostly in Suchiate and Mazatán , Chiapas .
++++++++++++++++++++++++++++
+[storm, atlantic, category, mph, damage, reported, depression]https://en.wikipedia.org/wiki/Soconusco
+in 2005 , hurricane stan caused the region to lose 65 % of its banana crop , mostly in suchiate and mazatán .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In 2011 , Boart Longyear reached record revenue of $ 2 billion .
++++++++++++++++++++++++++++
+[longyear, company, boart, drilling, diamond, first, international, mining, core, its, bits, began, business, companies, exploration, learn, more, products, ceo, citations]https://en.wikipedia.org/wiki/Boart_Longyear
+in 1965 , when longyear 's annual sales had reached us$ 15 million , the company bought more land in minneapolis and persuaded the city government to vacate erie street to accommodate its expansion .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Boart_Longyear
+longyear sales reached us$ 40 million in 1970 .
+trustworthiness:1.0
+
+
+++++++++++++query+++++++++++++++
+Lee Kwan died of a stroke on March 12 , 2008 in Taipei at the age of 78 .
++++++++++++++++++++++++++++
+[lee, best, film, actor, kwan, television, chinese, supporting, actress, kun, tianjin, filmography]https://en.wikipedia.org/wiki/Lee_Kwan
+lee kwan born 李心亮 lee sum leung ( 1930-02-18 ) 18 february 1930 tianjin , china died 12 march 2008 ( 2008-03-12 ) ( aged 78 ) taipei , taiwan years active 1957 – 2008 awards golden bell awards 2001 best supporting actor ( 逆女 ) chinese name transcriptions standard mandarin hanyu pinyin lǐ kūn yue : cantonese jyutping lei5 gwan1 musical career also known as li kun kun li li quinn lee quinn musical artist lee kwan or li kun ( 18 february 1930 – 12 march 2008 ) was a chinese actor .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Lee_Kwan
+lee kwan died of a stroke on march 12 , 2008 in taipei at the age of 78 .
+trustworthiness:1.0
+https://tv.apple.com/us/person/kun-li/umc.cpc.348hi960xw5fsvk9rbhcobn5j
+lee kwan died of a stroke on march 12 , 2008 in taipei at the age of 78 .
+trustworthiness:0.75
+https://alchetron.com/Lee-Kwan
+lee kwan died of a stroke on march 12 , 2008 in taipei at the age of 78 .
+trustworthiness:0.75
+
+
+++++++++++++query+++++++++++++++
+In October 1987 , the Green Cinema was purchased by the Dublin hotelier , PV Doyle , for £1.5 m .
++++++++++++++++++++++++++++
+[cinema, green, dublin, irish, stephen, cinemas, ireland, film, theatre, times, city, contents, current, former, hide, move, sidebar, tools, use, view]https://en.wikipedia.org/wiki/Green_Cinema
+[ 1 ] in october 1987 , the green cinema was purchased by the dublin hotelier , pv doyle , for £ 1.5 m. [ 4 ] the cinema was demolished shortly afterwards and the site remained derelict until 2002 , when work began on the construction of a new office block .
+trustworthiness:0.85
+
+
+++++++++++++query+++++++++++++++
+At the age of 16 , Mariam Mohamed Hadi Al Hilli was also debuting at the Sydney Summer Olympics and this competition was her only appearance at the Olympic Games .
++++++++++++++++++++++++++++
+[]https://en.wikipedia.org/wiki/Bahrain_at_the_2000_Summer_Olympics
+[ n 1 ] [ 10 ] at the age of 16 , mariam mohamed hadi al hilli was also debuting at the sydney summer olympics and this competition was her only appearance at the olympic games .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+In 1839 the regents purchased a complete copy of Audubon 's " The Birds of America " for the then - extraordinary sum of $ 970 .
++++++++++++++++++++++++++++
+[]https://en.wikipedia.org/wiki/Asa_Gray
+in 1839 the regents purchased a complete copy of audubon 's the birds of america for the then - extraordinary sum of $ 970 .
+trustworthiness:NaN
+https://www.amherst.edu/library/archives/holdings/soffer/b
+contains 27 leaves including three preliminary pages with printed characters and three seals ; 25 framed colored wood - block diptych prints of birds ( not sealed ) and usually plants , in sumi - e style muted black , gray , brown and red ; and a blank final page .
+trustworthiness:NaN
+https://www.amherst.edu/library/archives/holdings/soffer/b
+like that work , this one is an extremely comprehensive summary of the status and distribution of the birds of the state , in this case illinois .
+trustworthiness:NaN
+https://www.amherst.edu/library/archives/holdings/soffer/b
+the individual treatment of the species ends with a summary of its distribution in north america .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+Klimke purchased Ahlerich by auction in 1975 , in Warendorf , for the record price of 42.000 DM ( ca .
++++++++++++++++++++++++++++
+[ahlerich, dressage, klimke, westphalian, contents, hide, move, olympic, sidebar, team, tools, view, account, angeles, animal, ausbildungsweg, champion, content, courtney, dressur]
+
+++++++++++++query+++++++++++++++
+In 1903 , Northern Pacific Railway purchased nearly 400 gravesites in Missoula 's Cemetery for Japanese laborers who worked for the railway company .
++++++++++++++++++++++++++++
+[villard, dakota, burlington]https://en.wikipedia.org/wiki/Missoula_Cemetery
+the land where the cemetery would be built was purchased from the northern pacific railroad for $ 168 .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Missoula_Cemetery
+m. winnifred feighner , assistant librarian at university of montana and daughter of missoula pioneers daniel r. feighner and jennie monroe unmarked graves [ edit ] in 1903 , the northern pacific railway purchased nearly 400 [ 7 ] gravesites in missoula 's cemetery for japanese laborers who worked for the railway company .
+trustworthiness:0.0
+http://www.leighlarson.com/henry_norton_morgan.htm
+the biggest sale of graves came in 1903 , as the northern pacific railway purchased two blocks , with nearly 400 graves sites .
+trustworthiness:0.3333333333333333
+
+
+++++++++++++query+++++++++++++++
+In 2007 , FIFCO purchased the operations of SAB Miller in Costa Rica for $ 116 million USD .
++++++++++++++++++++++++++++
+[]https://alchetron.com/Florida-Ice-and-Farm-Company
+in 2007 , fifco purchased the operations of sab miller in costa rica for $ 116 million usd .
+trustworthiness:NaN
+https://alchetron.com/Florida-Ice-and-Farm-Company
+in 2011 fifco purchased corporación musmanni , a large bakery chain in costa rica with franchisees in central america and the caribbean .
+trustworthiness:NaN
+https://alchetron.com/Florida-Ice-and-Farm-Company
+in october 2012 fifco purchased north american breweries holdings ( nab ) from kps capital partners , for $ 388 million usd through its subsidiary cervecería costa rica s. a. nab sells genesee and labatt beer in the united states , as well as craft or small batch beers including honey brown lager , magic hat and pyramid .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+Bloomberg purchased the first of these , WBBR ( at the time designated as WNEW ) , in 1992 , for $ 13.5 million .
++++++++++++++++++++++++++++
+[]
+
+++++++++++++query+++++++++++++++
+In 2002 , Anglo American purchased a 35 % portion of Avmin .
++++++++++++++++++++++++++++
+[anglo, american, view, you, add, all, content, file, here, policy]https://en.wikipedia.org/wiki/Anglovaal
+[ 7 ] in 2002 , anglo american purchased a 35 % portion of avmin .
+trustworthiness:1.0
+https://www.saflii.org/za/cases/ZACT/2003/45.html
+anglo argues that a more precise description at the time of how much it was still purchasing , and from whom , would have been impossible given that this was equity to be purchased on an open market in a public company from possibly numerous sellers .
+trustworthiness:0.9
+https://www.saflii.org/za/cases/ZACT/2003/45.html
+” the ultimate shareholder in stimela was israeli businessman bennie steinmetz also a key investor in arctic resources , whose shares in avmin were later purchased by anglo when it bought stimela .
+trustworthiness:0.9
+https://www.saflii.org/za/cases/ZACT/2003/45.html
+26 dr hilmar rode of anglo , told the tribunal that zincor indicates on its website that it purchased zinc concentrate on international terms , see transcript p. 297 .
+trustworthiness:0.9
+https://www.absa.co.za/personal/save-invest/stockbroker-and-portfolio-management/local-and-offshore-share-trading/
+\ n1991 yardley of london ( africa ) is purchased by national brands limited , a wholly - owned subsidiary of anglovaal industries limited .
+trustworthiness:0.9
+
+
+++++++++++++query+++++++++++++++
+In 1969 House of Fraser purchased JJ Allen for £5.3 million .
++++++++++++++++++++++++++++
+[fraser, house, formerly, glasgow, store, company, university, archive, ltd, stores, acquired, frasers, group, originally, department, london, arnotts, street]https://en.wikipedia.org/wiki/J_J_Allen
+in 1969 house of fraser purchased jj allen for £ 5.3 million .
+trustworthiness:0.4444444444444444
+https://en.wikipedia.org/wiki/J_J_Allen
+in 1971 , house of fraser purchased another department store group , dingles group , and jj allen 's west country stores were transferred to the dingles division with the rest being transferred to the harrods division .
+trustworthiness:0.4444444444444444
+https://www.facebook.com/seesouthampton/photos/a.374029946094995/1548523625312282/?type=3
+in 1969 house of fraser purchased jj allen for £ 5.3 million .
+trustworthiness:0.3888888888888889
+https://www.facebook.com/seesouthampton/photos/a.374029946094995/1548523625312282/?type=3
+in 1971 , house of fraser purchased another department store group , dingles group , and jj allen 's west country stores were transferred to the dingles division with the rest being transferred to the harrods division .
+trustworthiness:0.3888888888888889
+https://en.wikipedia.org/wiki/Colson%27s
+it was later purchased and grouped with plymouth - based dingles , taking their name , before becoming house of fraser .
+trustworthiness:0.4444444444444444
+https://en.wikipedia.org/wiki/Colson%27s
+[ 7 ] purchase by house of fraser [ edit ] in 1969 , j j allen were purchased by house of fraser for £ 5.3 million and merged into its harrods group .
+trustworthiness:0.4444444444444444
+https://en.wikipedia.org/wiki/Colson%27s
+[ 10 ] this did not last long , as in 1971 house of fraser purchased the west country department store group e dingle & co and all the house of fraser stores in the west country were transferred into the new dingles division and re-branded under the dingles name .
+trustworthiness:0.4444444444444444
+http://www.exetermemories.co.uk/em/_commercial/colsons.php
+in 1971 , the house of fraser purchased the rival west country group e dingle and co. .
+trustworthiness:0.3888888888888889
+
+
+++++++++++++query+++++++++++++++
+The company 's independence did not last much longer , as in 1972 House of Fraser purchased the business for £8 million .
++++++++++++++++++++++++++++
+[formerly, glasgow, acquired, frasers, originally, london, arnotts]https://en.wikipedia.org/wiki/Hammonds_of_Hull
+the company 's independence did not last much longer , as in 1972 house of fraser purchased the business for £ 8 million .
+trustworthiness:0.0
+https://modernmooch.com/tag/store/
+by 1886 he purchased further units in market street and queen street and knocked them into one large store and named it ‘ the remnant warehouse ’ .
+trustworthiness:0.0
+https://modernmooch.com/tag/store/
+the company ’s independence did not last much longer , as in 1972 house of fraser purchased the business for £ 8 million .
+trustworthiness:0.0
+https://modernmooch.com/2020/10/01/boyes-bridlington/
+by 1886 he purchased further units in market street and queen street and knocked them into one large store and named it ‘ the remnant warehouse ’ .
+trustworthiness:0.0
+https://modernmooch.com/2020/10/01/boyes-bridlington/
+the company ’s independence did not last much longer , as in 1972 house of fraser purchased the business for £ 8 million .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+On July 31 , 2002 , Entergy Nuclear Vermont Yankee , LLC ( EVY ) purchased the plant from Vermont Yankee Nuclear Power Corporation ( VYNPC ) for $ 180 million .
++++++++++++++++++++++++++++
+[vermont, state, burlington, states, press, united, has, england, green, pdf, population, hampshire, there, york, also, first, largest, national, mountain, other]https://en.wikipedia.org/wiki/Vermont_Yankee_Nuclear_Power_Plant
+on july 31 , 2002 , entergy nuclear vermont yankee , llc ( evy ) purchased the plant from vermont yankee nuclear power corporation ( vynpc ) for $ 180 million .
+trustworthiness:0.9
+
+
+++++++++++++query+++++++++++++++
+In October 1987 , the Green Cinema was purchased by the Dublin hotelier , PV Doyle , for £1.5 m .
++++++++++++++++++++++++++++
+[cinema, green, dublin, irish, stephen, cinemas, ireland, film, theatre, times, city, contents, current, former, hide, move, sidebar, tools, use, view]https://en.wikipedia.org/wiki/Green_Cinema
+[ 1 ] in october 1987 , the green cinema was purchased by the dublin hotelier , pv doyle , for £ 1.5 m. [ 4 ] the cinema was demolished shortly afterwards and the site remained derelict until 2002 , when work began on the construction of a new office block .
+trustworthiness:0.85
+
+
+++++++++++++query+++++++++++++++
+The vase was purchased in 1759 at the end - of - year sale at Versailles by Madame de Pompadour for 960 livres .
++++++++++++++++++++++++++++
+[identifiers, jeanne, antoinette, engraved, court, mistress, marquise, guay]https://www.rct.uk/collection/themes/publications/george-iv-art-spectacle/pot-pourri-vase-and-cover-pot-pourri-a
+the vase was purchased in 1759 at the end - of - year sale at versailles by madame de pompadour for 960 livres .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/S%C3%A8vres_pot-pourri_vase_in_the_shape_of_a_ship
+the vase was purchased in 1759 at the end - of - year sale at versailles by madame de pompadour for 960 livres .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In 1970 the Royal Danish Air Force purchased two Squadron ( aviation ) of Swedish Saab 35 Draken strike fighters and stationed them at Karup .
++++++++++++++++++++++++++++
+[air, danish, royal, base, squadron, aircraft, eskadrille, helicopters, command, denmark, defence, karup, army, fighter, rdaf, forces, station, military, nato]https://www.diegocrotti.com/diegocrotti9/june-2014-karup-air-force-base.html
+in 1970 the royal danish air force purchased two squadrons of swedish draken strike fighters and stationed them at karup .
+trustworthiness:0.6842105263157895
+https://1991-new-world-order.fandom.com/wiki/Karup_Air_Base%5CAirport
+in 1970 the royal danish air force purchased two squadrons of swedish draken strike fighters and stationed them at karup .
+trustworthiness:0.6842105263157895
+http://www.jetwashaviationphotos.com/riat-fairford-airshow-2022.html
+in 2007 a further 18 aircraft were purchased from the swiss air force , the t66 model aircraft had been flown very little in comparison to the finnish hawks and came at a bargain price , costing roughly what two new aircraft would have been .
+trustworthiness:0.8421052631578947
+https://docplayer.net/60383592-August-2017.html
+aug : 1484 121 india it has been reported on 26th june 2017 that , subject to us congressional approval , the final white tail c - 17 produce will be purchased for the indian air force .
+trustworthiness:0.8947368421052632
+
+
+++++++++++++query+++++++++++++++
+In 1944 in the hamlet ( place ) of Loch Sheldrake within the Town of Fallsburg , Charles Brown , owner of several hotels , purchased the Black Apple Inn from the Appel family for US $ 70,000 .
++++++++++++++++++++++++++++
+[]https://en.wikipedia.org/wiki/Brown%27s_Hotel_(Catskills)
+in 1944 in the hamlet of loch sheldrake , new york within the town of fallsburg , charles brown , owner of several hotels , purchased the black appel inn from the appel family for us $ 70,000 .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+In November 2010 , Belden purchased the communications products business of broadcast connector manufacturer Thomas & Betts of Memphis for $ 78 million .
++++++++++++++++++++++++++++
+[unsourced]https://en.wikipedia.org/wiki/Belden_Incorporated
+[ 15 ] in late 2010 , belden purchased thomas & betts corporation , a coax connectivity and communications products company , $ 78 million .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Belden_Incorporated
+[ 16 ] in november 2010 , belden purchased the communications products business of broadcast connector manufacturer thomas & betts of memphis , tennessee for $ 78 million .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In 2007 France power company , Schneider Electric purchased Pelco for US$ 1.22 billion in an effort to enhance their building automation business .
++++++++++++++++++++++++++++
+[]
+
+++++++++++++query+++++++++++++++
+In September 1996 , Oxford Scientific Films was purchased by film and television rights company Circle Communications for £3.9 million .
++++++++++++++++++++++++++++
+[oxford, films, scientific, company, southern, star, film, thompson, its, meerkat, production, awards, photolibrary, documentary, factual, group, series, circle, communications, division]https://en.wikipedia.org/wiki/Oxford_Scientific_Films
+[ 3 ] southern star acquisition [ edit ] in september 1996 , oxford scientific films was purchased by film and television rights company circle communications for £ 3.9 million .
+trustworthiness:1.0
+
+
+++++++++++++query+++++++++++++++
+Broward County purchased Pine Island Ridge in 1989 as part of the $ 75 million Environmentally Sensitive Lands Bond Issue .
++++++++++++++++++++++++++++
+[county, broward, park, born, area, airport]https://en.wikipedia.org/wiki/Pine_Island_Ridge,_Florida
+[ 4 ] broward county purchased pine island ridge in 1989 as part of the $ 75 million environmentally sensitive lands bond issue .
+trustworthiness:0.6666666666666666
+https://www.oakknoll1.com/
+broward county purchased pine island ridge in 1989 as part of the $ 75 million environmentally sensitive lands bond issue .
+trustworthiness:0.5
+
+
+++++++++++++query+++++++++++++++
+On July 30 , 1993 , Leslie Alexander ( businessman ) purchased the Rockets for $ 85 million .
++++++++++++++++++++++++++++
+[alexander, leslie, all, american, contents, hide, move, sidebar, tools, view, you, account, also, born, businessman, content, file, here, languages, learn]
+
+++++++++++++query+++++++++++++++
+Morton purchased the painting from Kennedy Galleries of New York for $ 38,000 in 1972 .
++++++++++++++++++++++++++++
+[identifiers, wunderlich, contents, hide, sidebar]https://www.worthwhile-magazine.com/articles/product-disparagement-and-its-impact-on-connoisseurship
+the artwork was even signed “ c. m. russell 1913 ” and had a strong provenance as the painting was purchased from kennedy galleries of new york for $ 38,000 in 1972 by morton .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+On 17 September 2013 the Dutch government announced that it will purchase 37 JSF fighters for a purchase price of around 4.5 billion euro .
++++++++++++++++++++++++++++
+[federalism, oclc]https://en.wikipedia.org/wiki/Eurofighter_Typhoon_procurement
+[ 18 ] export [ edit ] austria [ edit ] austrian air force typhoon in flight on 2 july 2002 the austrian government announced its decision to buy the typhoon as its new air defence aircraft , it having beaten the general dynamics f - 16 and the saab jas 39 gripen in competition .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Eurofighter_Typhoon_procurement
+[ 69 ] [ 70 ] [ 71 ] on 17 september 2017 the uk government announced that qatar had signed a statement of intent to procure 24 eurofighter typhoons .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Eurofighter_Typhoon_procurement
+[ 142 ] on 20 december 2011 , the japanese government announced its intention to purchase 42 f - 35s .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen
+[ 167 ] on 8 june 2011 , the swedish government announced an agreement to extend the deployment for five of the gripens .
+trustworthiness:0.5
+https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen
+[ 172 ] on 25 august 2012 , the swedish government announced that 40 – 60 jas 39e / f gripens were expected to be procured and in service by 2023 .
+trustworthiness:0.5
+https://en.wikipedia.org/wiki/Saab_JAS_39_Gripen
+[ 182 ] in december 2001 , having reportedly been swayed by gripen international 's generous financing and offset programme , the czech government announced that the gripen had been selected .
+trustworthiness:0.5
+https://www.frstrategie.org/en/publications/notes/nato-f35-european-nuclear-dilemmas-2016
+to replace its strongly criticized f - 4 fleet , the government has announced its willingness to acquire 100 f - 35s “ turkey keeps plan to buy 100 f - 35 fighter jets ” , reuters , 23 february 2012 .
+trustworthiness:0.0
+https://military-history.fandom.com/wiki/Lockheed_Martin_F-35_Lightning_II_procurement
+[ 46 ] on 27 may 2006 , president george w. bush and prime minister tony blair announced that " both governments agree that the uk will have the ability to successfully operate , upgrade , employ , and maintain the joint strike fighter such that the uk retains operational sovereignty over the aircraft . "
+trustworthiness:0.0
+https://military-history.fandom.com/wiki/Lockheed_Martin_F-35_Lightning_II_procurement
+[ 59 ] in may 2012 , hammond announced that the uk coalition government had reverted to the previous government 's plan to operate the f - 35b stovl variant , due to rising estimated shipbuilding costs associated with the f - 35c , and an earlier estimated in - service date for the f - 35b .
+trustworthiness:0.0
+https://military-history.fandom.com/wiki/Lockheed_Martin_F-35_Lightning_II_procurement
+[ 90 ] on 17 september 2013 the dutch government announced that it will purchase 37 jsf fighters for a purchase price of around 4.5 billion euros .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+On 27 July 2016 , Malaysia Airlines announced the purchase of 25 Boeing 737 MAX jets , consisting of 25 firm orders and 25 options for both MAX 8 and MAX 10 models .
++++++++++++++++++++++++++++
+[airlines, malaysia, airline, air, its, airways, aircraft, international, business, mas, airbus, boeing, class, fleet, flight, has, also, malaysian, singapore]https://en.wikipedia.org/wiki/Boeing_737_MAX
+[ 20 ] on july 20 , 2011 , american airlines announced an order for 460 narrowbody jets including 130 a320ceo ( current engine option ) , 130 a320neo , 100 737ng and intended to order 100 re-engined 737s with cfm leap if boeing pursued the project .
+trustworthiness:0.8947368421052632
+http://www.b737.org.uk/737max.htm
+keeping up purely on price will be difficult , " in july 2011 , some 8 months after airbus announced its leap - x re-engined a320 neo , boeing followed suit with a re-engined 737ng in what looked like a hasty move to secure a large order from american airlines , which was eventually split between the two manufacturers .
+trustworthiness:0.8947368421052632
+http://www.b737.org.uk/737max.htm
+the manufacturer announced at last month ’s paris air show that it had shifted its 737 max schedules to reflect first delivery of the max 8 to launch customer southwest airlines as early as six months ahead of the original plan .
+trustworthiness:0.8947368421052632
+
+
+++++++++++++query+++++++++++++++
+In 1900 , Chile , with its deposits of saltpeter , produced two - thirds of all fertilizer on the planet .
++++++++++++++++++++++++++++
+[santiago]https://en.wikipedia.org/wiki/History_of_the_Haber_process
+[ 27 ] in 1900 , chile , with its deposits of saltpeter , produced two - thirds of all fertilizer on the planet .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In 1954 , BMW produced 30,000 motorcycles .
++++++++++++++++++++++++++++
+[bmw, series, cars, production, company, models, engine, vehicles, south, first, german, germany, model, motorcycles, motor, plant, logo, motorcycle]http://dropbears.com/sitemap/motorcycles/bmw-motorcycle-history/
+in 1923 , the first bmw motorcycle , the r32 , is produced .
+trustworthiness:0.7777777777777778
+http://dropbears.com/sitemap/motorcycles/bmw-motorcycle-history/
+most of bmw ’s brightest engineers were taken to the us and russia to continue their work on jet engines which bmw produced during the war .
+trustworthiness:0.7777777777777778
+http://dropbears.com/sitemap/motorcycles/bmw-motorcycle-history/
+the first postwar bmw motorcycle was produced in 1948 .
+trustworthiness:0.7777777777777778
+https://en.wikipedia.org/wiki/History_of_BMW_motorcycles
+production of motorcycles with flat - twin engines continues to this day , however bmw has also produced many models with other types of engines .
+trustworthiness:0.9444444444444444
+https://en.wikipedia.org/wiki/History_of_BMW_motorcycles
+the bmw r 37 , produced from 1925 to 1926 , was bmw 's first sporting model .
+trustworthiness:0.9444444444444444
+https://en.wikipedia.org/wiki/History_of_BMW_motorcycles
+in 1949 , bmw produced 9,200 units and by 1950 production surpassed 17,000 units .
+trustworthiness:0.9444444444444444
+https://www.flickr.com/photos/magnussveinsson/4719515036
+most of bmw 's brightest engineers were taken to the us and the soviet union to continue their work on jet engines which bmw produced during the war .
+trustworthiness:0.7222222222222222
+https://www.flickr.com/photos/magnussveinsson/4719515036
+the first post-war bmw motorcycle in western germany , a 250 cc r24 , was produced in 1948 .
+trustworthiness:0.7222222222222222
+https://www.flickr.com/photos/magnussveinsson/4719515036
+in 1949 , bmw produced 9,200 units and by 1950 production surpassed 17,000 units .
+trustworthiness:0.7222222222222222
+http://www.collectiblewheels.com/bikes-for-sale-1/bmw-r50-1960-model
+in 1954 , bmw produced 30,000 motorcycles .
+trustworthiness:0.4444444444444444
+https://www.wikiwand.com/en/History_of_BMW_motorcycles
+production of motorcycles with flat - twin engines continues to this day , however bmw has also produced many models with other types of engines .
+trustworthiness:0.3888888888888889
+https://vietnammotorbiketoursclub.com/what-are-the-best-motorcycle-brands-n1753.htm
+bmw motorrad has produced motorcycles since 1923 bmw motorcycles brand is not only focusing on sportbike , touring .
+trustworthiness:0.6111111111111112
+https://tractors.fandom.com/wiki/History_of_BMW_motorcycles
+harley copied the bmw engine and transmission — simply converting metric measurements to inches — and produced the shaft - drive 750 cc ( 46 cubic inches ) 1942 harley - davidson xa .
+trustworthiness:0.8888888888888888
+https://tractors.fandom.com/wiki/History_of_BMW_motorcycles
+most of bmw 's brightest engineers were taken to the us and the soviet union to continue their work on jet engines which bmw produced during the war .
+trustworthiness:0.8888888888888888
+https://tractors.fandom.com/wiki/History_of_BMW_motorcycles
+the first post-war bmw motorcycle in western germany , a 250 cc r24 , was produced in 1948 .
+trustworthiness:0.8888888888888888
+
+
+++++++++++++query+++++++++++++++
+As of 2011 , only .25 % of energy produced in Costa Rica came from biomass .
++++++++++++++++++++++++++++
+[costa, rica, country, rican, spanish, its, has, national, central, population, america, other, health, also, countries, josé, pdf, american, san, united]
+
+++++++++++++query+++++++++++++++
+In 2009 , the Amistad Dam plants produced a total of 296,734,000 kilowatt hours .
++++++++++++++++++++++++++++
+[dam, amistad, rio, grande, feet, water, reservoir, texas, mexico, pdf, copy, miles, dams, flood, cubic, maint, power, river, border, cite]https://en.wikipedia.org/wiki/Amistad_Dam
+[ 3 ] in 2009 , the amistad dam plants produced a total of 296,734,000 kilowatt hours .
+trustworthiness:0.95
+
+
+++++++++++++query+++++++++++++++
+As of 2003 , Vermont produced about 5.5 percent of the global syrup supply .
++++++++++++++++++++++++++++
+[burlington, population]http://faculty.trinity.edu/rjensen/Tidbits/Trees/MapleSugar/02/02.htm
+[ 47 ] as of 2003 , vermont produced about 5.5 percent of the global syrup supply .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Maple_syrup
+[ 3 ] in the united states , a syrup must be made almost entirely from maple sap to be labelled as " maple " , though states such as vermont and new york have more restrictive definitions .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Maple_syrup
+[ 63 ] vermont has long been the largest us producer , with a record 9.5 million litres ( 2.5 million us gallons ) produced in 2022 .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Maple_syrup
+in massachusetts , the grade b was renamed " grade a very dark , strong taste " [ 85 ] the vermont agency of agriculture food and markets used a similar grading system of colour , and is roughly equivalent , especially for lighter syrups , but using letters : " aa " , " a " , etc. [ 86 ] [ 87 ] the vermont grading system differed from the us system in maintaining a slightly higher standard of product density ( measured on the baumé scale ) .
+trustworthiness:0.0
+https://www.quora.com/What-is-the-difference-between-maple-syrup-from-Quebec-and-Vermont-in-the-United-States-Which-product-tastes-better-and-why
+what is the difference between maple syrup from quebec and vermont in the united states ?
+trustworthiness:0.0
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4642419/
+on 8 may 2014 , however , vermont passed its genetically engineered food labeling act , which will require all foods that contain > 0.9 % gm ingredients to be labeled as “ may be partially produced with genetic engineering ” beginning in july 2016 ( 46 ) .
+trustworthiness:0.5
+
+
+++++++++++++query+++++++++++++++
+Krupp produced a rail - mobile 120 mm disappearing gun in 1900 .
++++++++++++++++++++++++++++
+[krupp, company, alfried, friedrich, alfred, hitler, bohlen, halbach]https://en.wikipedia.org/wiki/Disappearing_gun
+[ 14 ] [ 15 ] krupp produced a rail - mobile 120 mm disappearing gun in 1900 .
+trustworthiness:0.125
+https://shipsofscale.com/sosforums/threads/30th-of-november-today-in-naval-history-naval-maritime-events-in-history.2104/page-72
+the german company krupp produced her main armament of breech loading guns , whilst the single 6 - pounder gun was a british armstrong .
+trustworthiness:0.375
+https://tanks-encyclopedia.com/category/ww2-german-panzer-iv/
+source : www.panzernet.net the panzer ausf.h was produced by krupp , vomag , and nibelungenwerke .
+trustworthiness:0.375
+https://tanks-encyclopedia.com/category/ww2-german-panzer-iv/
+despite being heavily involved in the panzer iv production , krupp produced only 381 ausf.h vehicles by december 1943 .
+trustworthiness:0.375
+https://tanks-encyclopedia.com/category/ww2-german-panzer-iv/
+production as the panzer ausf.f was already being produced by krupp , vomag , and nibelungenwerke , these also received the production orders for the new improved ausf.g .
+trustworthiness:0.375
+https://tvd.im/land-systems/2510-krupp-k5-anzio-annie.html
+krupp k5 ( anzio annie ) : photos , history , specification aviationnaval warfareland systemssmall arms krupp k5 ( anzio annie ) 1936 world war 2 1 history of krupp k5 ( anzio annie ) 2 krupp k5 ( anzio annie ) specification 2.1 basic history of krupp k5 ( anzio annie ) during the first world war , krupp - a german industrial steel and weapons manufacturer - produced large - caliber railroad guns for the german army .
+trustworthiness:0.25
+https://tvd.im/land-systems/2510-krupp-k5-anzio-annie.html
+krupp began developing a new heavy rail towed gun system - the " k5 " in the late 1920s , and by 1934 the project had produced a prototype barrel with a caliber of 120 mm .
+trustworthiness:0.25
+
+
+++++++++++++query+++++++++++++++
+In 2001 Vermont produced 275,000 US gallons ( 1,040,000 L ) of maple syrup , about 25 % of U.S. production .
++++++++++++++++++++++++++++
+[vermont, state, burlington, states, press, united, has, england, green, pdf, population, hampshire, there, york, also, first, largest, national, mountain, other]https://en.wikipedia.org/wiki/History_of_Vermont
+twenty - first century [ edit ] in 2001 vermont produced 275,000 us gallons ( 1,040,000 l ) of maple syrup , about 25 % of u.s. production .
+trustworthiness:1.0
+
+
+++++++++++++query+++++++++++++++
+In 1987 , Louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
++++++++++++++++++++++++++++
+[louisiana, state, states, orleans, united, national, population, american, spanish, its, river, culture, other, war, city, law]https://www.reddit.com/r/todayilearned/comments/12bjujd/til_that_in_the_united_states_crayfish_are_often/
+in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.125
+https://en.wikipedia.org/wiki/Crayfish_as_food
+[ 9 ] in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.625
+https://en.wikipedia.org/wiki/Crayfish_as_food
+[ 11 ] about 70 % – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 % – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.625
+https://en.wikipedia.org/wiki/Crayfish
+[ 48 ] in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.6875
+https://en.wikipedia.org/wiki/Crayfish
+[ 50 ] about 70 – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.6875
+https://www.roeselienraimond.com/red-swamp-crawfish-mudbug-procambarus-clarkii/
+[ 22 ] in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.4375
+https://www.roeselienraimond.com/red-swamp-crawfish-mudbug-procambarus-clarkii/
+[ 24 ] about 70 % – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 % – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.4375
+https://710keel.com/crawfish-not-just-a-louisiana-treat/
+in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.625
+https://710keel.com/crawfish-not-just-a-louisiana-treat/
+about 70 % – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 % – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.625
+https://kids.kiddle.co/Crayfish
+in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.4375
+https://kids.kiddle.co/Crayfish
+about 70 % – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 % – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.4375
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663342/
+rice in the us is mainly produced in the southern states ( arkansas , louisiana , mississippi , missouri , and texas ) , which accounts for 80 % of the production while california state produces 20 % [ 12 ] .
+trustworthiness:0.5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663342/
+louisiana is among the states that produce most of the rice consumed in the us .
+trustworthiness:0.5
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7663342/
+however , few studies have determined toxic element concentrations of rice grown or consumed in louisiana [ 16 ] .
+trustworthiness:0.5
+https://alchetron.com/Crayfish
+in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were consumed locally .
+trustworthiness:0.4375
+https://alchetron.com/Crayfish
+about 70 % – 80 % of crayfish produced in louisiana are procambarus clarkii ( red swamp crawfish ) , with the remaining 20 % – 30 % being procambarus zonangulus ( white river crawfish ) .
+trustworthiness:0.4375
+https://www.vedantu.com/animal/crayfish
+in 1987 , louisiana produced 90 % of the crayfish harvested in the world , 70 % of which were locally consumed .
+trustworthiness:0.5625
+https://www.vedantu.com/animal/crayfish
+up to 70 – 80 % of crayfish produced in louisiana are procambarus clarkii ( also called red swamp crawfish ) , with the rest 20 – 30 % being procambarus zonangulus ( called white river crawfish ) .
+trustworthiness:0.5625
+
+
+++++++++++++query+++++++++++++++
+Egypt produced 691,000 bbl / d of oil and 2,141.05 Tcf of natural gas in 2013 , making the country the largest non-OPEC producer of oil and the second - largest dry natural gas producer in Africa .
++++++++++++++++++++++++++++
+[egypt, egyptian, arab, cairo, president, country, government, has, its, united, egyptians, population, arabic, years, military, war, over, suez]https://en.wikipedia.org/wiki/Egypt
+[ 232 ] egypt produced 691,000 bbl / d of oil and 2,141.05 tcf of natural gas in 2013 , making the country the largest non-opec producer of oil and the second - largest dry natural gas producer in africa .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Egypt
+[ 302 ] for over 100 years , more than 4000 films have been produced in egypt , three quarters of the total arab production .
+trustworthiness:1.0
+
+
+++++++++++++query+++++++++++++++
+China and Chile are the largest producers of aquatic plants , each producing over 300,000 tonnes in 2007 .
++++++++++++++++++++++++++++
+[chilean, spanish, santiago, president]https://en.wikipedia.org/wiki/Aquaculture_of_giant_kelp
+[ 7 ] [ 9 ] china and chile are the largest producers of aquatic plants , each producing over 300,000 tonnes in 2007 .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+By 1966 Hotchkiss had produced 27,628 M201 s , mostly at a plant in Stains , Seine - Saint - Denis , a short distance to the north of Paris .
++++++++++++++++++++++++++++
+[hotchkiss, french, contents, hide, manufacturer, move, places, sidebar, toggle, tools, view, you, all, also, armaments, canada, content]https://en.wikipedia.org/wiki/Hotchkiss_M201
+nevertheless , by 1955 , with just 9,623 of the delahaye vehicle produced and the delahaye company itself financially dead , production of the delahaye vlr was suddenly abandoned very soon after delahaye ran out of money and its assets fell into the hands of hotchkiss .
+trustworthiness:0.7647058823529411
+https://en.wikipedia.org/wiki/Hotchkiss_M201
+in 1955 465 jeeps were produced , and these were called hotchkiss licence mbs .
+trustworthiness:0.7647058823529411
+https://en.wikipedia.org/wiki/Hotchkiss_M201
+[ 3 ] by 1966 hotchkiss had produced 27,628 m201s , mostly at a plant in stains , a short distance to the north of paris .
+trustworthiness:0.7647058823529411
+https://old-forum.warthunder.com/index.php?/topic/444746-hotchkiss-m201-milan/
+in 1955 , 465 jeeps were produced and called hotchkiss license mbs .
+trustworthiness:0.35294117647058826
+https://old-forum.warthunder.com/index.php?/topic/444746-hotchkiss-m201-milan/
+in 1966 , hotchkiss produced 27 628 m201 , mainly in a stains factory located a short distance north of paris .
+trustworthiness:0.35294117647058826
+
+
+++++++++++++query+++++++++++++++
+World Champion Ellen van Dijk fired the starting shot for the 21 st edition in October 2013 .
++++++++++++++++++++++++++++
+[]https://en.wikipedia.org/wiki/Six_Days_of_Amsterdam
+[ 1 ] world champion ellen van dijk fired the starting shot for the 21st edition in october 2013 .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+Girkin had been directed to Donbass by Sergey Aksyonov and he entered Ukraine with a group of 52 officers in April , initially taking Slavyansk , Kramatorsk and then other cities .
++++++++++++++++++++++++++++
+[]https://military-history.fandom.com/wiki/Russo-Ukrainian_War
+girkin had been directed to donbass by sergey aksyonov and he entered ukraine with a group of 52 officers in april , initially taking slavyansk , kramatorsk and then other cities .
+trustworthiness:NaN
+
+
+++++++++++++query+++++++++++++++
+As of 2006 70 % of Chile 's forestry production went to export , and the industry employed more than 150,000 workers .
++++++++++++++++++++++++++++
+[chile, chilean, country, national, pdf, south, spanish, has, also, america, del]https://en.wikipedia.org/wiki/Forestry_in_Chile
+[ 2 ] in 2006 70 % of chile 's forestry production went to export , and the industry employed more than 150,000 workers .
+trustworthiness:0.7272727272727273
+
+
+++++++++++++query+++++++++++++++
+As of 2013 , Chile was ranked as the 22nd largest importer of Mexican goods .
++++++++++++++++++++++++++++
+[chilean, pdf, spanish, santiago, president, also]
+
+++++++++++++query+++++++++++++++
+Chile has set a target to produce 20 % of its electricity from clean energy sources by 2025 .
++++++++++++++++++++++++++++
+[chile, chilean, country, national, its, american, has, president, also, america, government, population, international, most, del]https://www.wri.org/insights/chiles-enhanced-climate-plan-sets-example-other-countries
+when officially delivering the ndc , chile 's environment minister said that recovery plans " should consider as a fundamental factor the climate crisis and its social impact on people and the land " and indicated that was why the enhanced ndc showed " ambitious targets and commitments that will enable [ chile 's ] recovery plans to be focused on a clear objective . "
+trustworthiness:0.8666666666666667
+https://www.wri.org/insights/chiles-enhanced-climate-plan-sets-example-other-countries
+topline greenhouse gas targets closer in line with carbon neutrality under its previous ndc , chile committed to reduce the greenhouse gas intensity of its gdp by 30 % from 2007 levels by 2030 , which was estimated to bring annual emissions to 131 mtco2e in 2030 .
+trustworthiness:0.8666666666666667
+https://www.wri.org/insights/chiles-enhanced-climate-plan-sets-example-other-countries
+that points to excellent progress from chile , though still not sufficient ambition to avoid exceeding global warming of 1.5 degrees c. with those new targets , chile is taking steps to align its 2030 ndc with achieving its 2050 carbon neutrality goal ( laid out in the country 's draft national climate law ) .
+trustworthiness:0.8666666666666667
+https://www.iea.org/reports/global-ev-outlook-2021/policies-to-promote-electric-vehicle-deployment
+chile chile ’s energy roadmap 2018 - 2022 targets a ten-fold increase in the number of electric cars in 2022 compared with 2017 .
+trustworthiness:0.6
+https://www.iea.org/reports/global-ev-outlook-2021/policies-to-promote-electric-vehicle-deployment
+in south america , chile and colombia each established national targets in 2019 to electrify their bus fleets by 2040 and 2035 respectively .
+trustworthiness:0.6
+https://english.elpais.com/society/2022-11-07/chile-the-land-of-mines-leads-the-way-in-solar-energy.html
+most of the country ’s clean energy is generated there and , because of the plant , chile achieved one of its most ambitious environmental targets last year , four years ahead of schedule .
+trustworthiness:0.7333333333333333
+https://english.elpais.com/society/2022-11-07/chile-the-land-of-mines-leads-the-way-in-solar-energy.html
+although chile has n’t implemented subsidies for large - scale solar generation , there are some government incentives for people to install solar panels at the residential level , such as the public solar roofs program and net billing , an initiative that allows chileans to generate their own energy , consume it , and sell their surplus at a set price .
+trustworthiness:0.7333333333333333
+https://english.elpais.com/society/2022-11-07/chile-the-land-of-mines-leads-the-way-in-solar-energy.html
+chile has optimal conditions for clean energy production nevertheless , chile has made one of the fastest green transitions in the world , according to fernando branger , an energy specialist coordinator at the inter-american development bank .
+trustworthiness:0.7333333333333333
+https://en.wikipedia.org/wiki/Mandatory_renewable_energy_target
+[ 53 ] chile 17.6 % ( 2019 ) 20 % 2025 [ 56 ] 70 % 2030 china 12 % [ 57 ] 2015 35 % [ 58 ] 2030 egypt 10 % 20 % 2020 eritrea 70 % 2030 [ 59 ] greenland 70 % [ 60 ] india 21.4 % [ 61 ] 40 % by 2030 and 500gw by 2030 [ 61 ] 2030 indonesia 4 % 15 % ( inc. nuclear ) 2025 israel 0 % 5 % 2016 japan 0.4 % 1.63 % 2014 kazakhstan 3 % 2020 targets refer to electrical energy generation .
+trustworthiness:0.7333333333333333
+https://en.wikipedia.org/wiki/Mandatory_renewable_energy_target
+^ " chile aims to beat its own renewable energy targets " .
+trustworthiness:0.7333333333333333
+https://ember-climate.org/insights/research/global-electricity-review-2023/
+małgorzata wiatros - motyka senior electricity analyst , ember foreword a new era of clean power - no more excuses chile ’s minister of energy , diego pardow , and ember ’s non-executive chairs , baroness bryony worthington and harry benham , reflect on the findings of the global electricity review and the journey ahead as the world transitions to clean electricity .
+trustworthiness:0.8666666666666667
+https://ember-climate.org/insights/research/global-electricity-review-2023/
+the latest achievements have positioned chile as the best emerging country to invest in renewable energies , added to the high penetration of clean energies in our system , with last year ’s milestone standing out that , for the first time , solar and wind overtook coal in electricity generation .
+trustworthiness:0.8666666666666667
+https://ember-climate.org/insights/research/global-electricity-review-2023/
+the biggest absolute drops in emissions were seen where clean generation increased beyond rising demand , including brazil ( - 36 mtco2 ) , chile ( - 6.3 mtco2 ) , australia ( - 4.6 mtco2 ) and viet nam ( - 10.5 mtco2 ) .
+trustworthiness:0.8666666666666667
+https://www.unilever.com/planet-and-society/climate-action/partnering-with-suppliers-to-deliver-net-zero/
+harnessing nature for kinder cleaning products quix dishwashing liquid in chile and vietnam is made from an innovative , bio-based and biodegradable ingredient : rhamnolipids , made by a leading biotechnology company .
+trustworthiness:0.3333333333333333
+https://2009-2017.state.gov/p/wha/rls/news/261284.htm
+in 2013 , chile produced 33 billion cubic feet ( bcf ) of natural gas and imported 133 bcf .
+trustworthiness:0.8
+https://2009-2017.state.gov/p/wha/rls/news/261284.htm
+chile : energy auctions spur investment in renewables chile has made enormous strides in recent years in boosting investment in cleaner and non-conventional renewal energy ( ncre ) , which is defined by chilean law as renewable energy that excludes hydropower projects over 20 mw .
+trustworthiness:0.8
+https://2009-2017.state.gov/p/wha/rls/news/261284.htm
+chile ’s target is to have 20 percent of the energy matrix be from ncre sources by 2025 , and the country is already well on its way to realizing this ambitious goal .
+trustworthiness:0.8
+
+
+++++++++++++query+++++++++++++++
+Once located on the bank of river Ganges , Soron now lies about 10 km from the present course of the river .
++++++++++++++++++++++++++++
+[soron, shookarakshetra, kasganj, district, india, all, census, indian, nagar, pradesh, uttar, cities, coordinates, fair, hide]https://soron.uponline.in/city-guide/about-soron
+a bridge is also built on ganges river called as kachhla that is located 12 km away from soron .
+trustworthiness:0.7333333333333333
+
+
+++++++++++++query+++++++++++++++
+There are currently 69 embassies in Santiago , Chile , and many countries maintain consulates in other Chilean cities ( not including honorary consulates ) .
++++++++++++++++++++++++++++
+[chile, chilean, country, national, south, its, american, has, santiago, president, also, america, government, population, international, most, del, between]https://en.wikipedia.org/wiki/Foreign_relations_of_Chile
+argentine general josé de san martín crossed the andes with chilean independence hero bernardo o'higgins and together they defeated the spaniards .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Foreign_relations_of_Chile
+in order to avoid fighting argentina as well , chilean president aníbal pinto authorized his envoy , diego barros arana to hand over as much territory as was needed to avoid argentina siding with bolivia and peru .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Foreign_relations_of_Chile
+the pope 's envoy , antonio samorè , successfully averted war and proposed a new definitive boundary in which the three disputed islands would remain chilean .
+trustworthiness:1.0
+https://en.wikipedia.org/wiki/Pablo_Neruda
+1955 ) matilde urrutia cerda ( m. 1966 ) children 1 awards international peace prize ( 1950 ) stalin peace prize ( 1953 ) nobel prize in literature ( 1971 ) signature pablo neruda ( / nəˈruːdə / nə - roo - də ; [ 1 ] spanish pronunciation : [ ˈpaβlo neˈɾuða ] ⓘ ; born ricardo eliécer neftalí reyes basoalto ; 12 july 1904 – 23 september 1973 ) was a chilean poet - diplomat and politician who won the 1971 nobel prize in literature .
+trustworthiness:0.9444444444444444
+https://en.wikipedia.org/wiki/Pablo_Neruda
+neruda occupied many diplomatic positions in various countries during his lifetime and served a term as a senator for the chilean communist party .
+trustworthiness:0.9444444444444444
+https://en.wikipedia.org/wiki/Pablo_Neruda
+although it was long reported that he died of heart failure , the interior ministry of the chilean government issued a statement in 2015 acknowledging a ministry document indicating the government 's official position that " it was clearly possible and highly likely " that neruda was killed as a result of " the intervention of third parties " .
+trustworthiness:0.9444444444444444
+https://cl.usembassy.gov/category/news/
+read more » by u.s. mission chile | 2 november , 2023 | topics : news | tags : chilean president boric , president biden the international day to end impunity for crimes against journalists corruption and abuse of power thrive where the free and independent press is suppressed .
+trustworthiness:1.0
+https://cl.usembassy.gov/category/news/
+read more » by u.s. mission chile | 31 october , 2023 | topics : news | tags : chilean president boric , president biden un security council ministerial meeting on the situation in the middle east secretary blinken at the un security council ministerial meeting on the situation in the middle east .
+trustworthiness:1.0
+https://cl.usembassy.gov/category/news/
+read more » by u.s. mission chile | 1 august , 2023 | topics : news | tags : global health security and diplomacy , secretary blinken fact sheet : u.s. has expanded labor visa opportunities the u.s. government is working diligently to maintain economic growth and meet the strong labor demand in the united states .
+trustworthiness:1.0
+https://www.npr.org/2023/09/10/1193755188/chile-coup-50-years-pinochet-kissinger-human-rights-allende
+the campaign against salvador allende enlarge this image an undated photo of chilean politician salvador allende .
+trustworthiness:0.8888888888888888
+https://www.npr.org/2023/09/10/1193755188/chile-coup-50-years-pinochet-kissinger-human-rights-allende
+afp via getty images hide caption toggle caption afp via getty images an undated photo of chilean politician salvador allende .
+trustworthiness:0.8888888888888888
+https://www.npr.org/2023/09/10/1193755188/chile-coup-50-years-pinochet-kissinger-human-rights-allende
+in addition to continued propaganda efforts , the cia met with chilean military contacts in a direct effort to foment a coup to stop an allende presidency .
+trustworthiness:0.8888888888888888
+https://www.britannica.com/biography/Pablo-Neruda
+7 vestigial features of the human body 7 of history 's most notorious serial killers pro and con : abortion 9 things you might not know about adolf hitler inventors and inventions of the industrial revolution home politics , law & government world leaders senators history & society pablo neruda chilean poet actions cite verifiedcite while every effort has been made to follow citation style rules , there may be some discrepancies .
+trustworthiness:0.7222222222222222
+https://www.britannica.com/biography/Pablo-Neruda
+neruda first published his poems in the local newspapers and later in magazines published in the chilean capital , santiago .
+trustworthiness:0.7222222222222222
+https://www.britannica.com/biography/Pablo-Neruda
+the experimental poet as diplomat at age 20 , with two books published , neruda had already become one of the best - known chilean poets .
+trustworthiness:0.7222222222222222
+https://embassies.net/chile-in-germany
+list of chile embassies and consulates in germany locations asia europe north america oceania africa south america middle east central america and caribbean embassies in chile visa exemption visa - free countries passport rank report changes embassies chile germany this is not the official website of the embassy of chile in germany .
+trustworthiness:0.2777777777777778
+https://embassies.net/chile-in-germany
+how many chilean embassies / consulates are there in germany ?
+trustworthiness:0.2777777777777778
+https://embassies.net/chile-in-germany
+chile currently maintains 7 diplomatic representative offices in germany including berlin , bremen , kiel , stuttgart , frankfurt , hamburg and munich .
+trustworthiness:0.2777777777777778
+https://www.poetryfoundation.org/poets/pablo-neruda
+“ no writer of world renown is perhaps so little known to north americans as chilean poet pablo neruda , ” observed new york times book review critic selden rodman .
+trustworthiness:0.7222222222222222
+https://www.poetryfoundation.org/poets/pablo-neruda
+this work quickly marked neruda as an important chilean poet .
+trustworthiness:0.7222222222222222
+https://www.poetryfoundation.org/poets/pablo-neruda
+in 1927 , he embarked on a real journey , when he sailed from buenos aires for lisbon , ultimately bound for rangoon where he had been appointed honorary chilean consul .
+trustworthiness:0.7222222222222222
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+chilean miners : where are they now ?
+trustworthiness:0.4444444444444444
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+luis hidalgo / ap chilean president sebastian pinera holds up a plastic bag containing a message from the miners on august 22 .
+trustworthiness:0.4444444444444444
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+chilean television aired footage of the miners , showing them in good spirits and explaining how their underground shelter was set up .
+trustworthiness:0.4444444444444444
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+chilean miners : where are they now ?
+trustworthiness:0.4444444444444444
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+luis hidalgo / ap chilean president sebastian pinera holds up a plastic bag containing a message from the miners on august 22 .
+trustworthiness:0.4444444444444444
+https://www.cnn.com/2015/08/04/world/chilean-miners-five-years-later/index.html
+chilean television aired footage of the miners , showing them in good spirits and explaining how their underground shelter was set up .
+trustworthiness:0.4444444444444444
+
+
+++++++++++++query+++++++++++++++
+The Croatian immigrants in Chile conducted extensive journalistic work since 1902 , which includes more than 50 newspapers , publications and newsletters .
++++++++++++++++++++++++++++
+[chile, chilean, country, national, pdf, south, its, spanish, american, has, santiago, president, also, america, population, international, most, del]https://en.wikipedia.org/wiki/Croatian_Chileans
+the croatian immigrants in chile conducted extensive journalistic work since 1902 , which includes more than 50 newspapers , publications and newsletters .
+trustworthiness:0.9444444444444444
+https://www.bigsoccer.com/threads/croats-ethnic-group-and-places-in-world-where-they-live.1813116/
+the croatian immigrants in chile conducted extensive journalistic work since 1902 , which includes more than 50 newspapers , publications and newsletters .
+trustworthiness:0.8888888888888888
+https://www.bigsoccer.com/threads/croats-ethnic-group-and-places-in-world-where-they-live.1813116/
+the croatian immigrants in chile conducted extensive journalistic work since 1902 , which includes more than 50 newspapers , publications and newsletters .
+trustworthiness:0.8888888888888888
+
+

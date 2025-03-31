@@ -1,0 +1,95 @@
+++++++++++++query+++++++++++++++
+Boeing announced its plans to develop a new version of the 707 in July 1957 .
++++++++++++++++++++++++++++
+[boeing, company, aircraft, pdf, air, satellite, united, corporation, its, global, report, washington, commercial, corporate, former, airlines]https://en.wikipedia.org/wiki/Boeing_720
+development [ edit ] shorter range 707 [ edit ] the boeing 720 made its maiden flight on november 23 , 1959 .
+trustworthiness:0.625
+https://en.wikipedia.org/wiki/Boeing_720
+boeing announced its plans to develop a new version of the 707 in july 1957 .
+trustworthiness:0.625
+https://en.wikipedia.org/wiki/Boeing_720
+[ 8 ] at one point in the development phase , it was known as the 707 - 020 , then 717 - 020 , [ 6 ] although this was the boeing model designation of the kc - 135 and remained unused for a commercial airliner until it was applied to the md - 95 , following boeing 's merger with mcdonnell douglas in 1997 .
+trustworthiness:0.625
+https://en.wikipedia.org/wiki/Boeing_707
+developed from the boeing 367 - 80 prototype first flown in 1954 , the initial 707 - 120 first flew on december 20 , 1957 .
+trustworthiness:0.8125
+https://en.wikipedia.org/wiki/Boeing_707
+development [ edit ] model 367 - 80 origins [ edit ] main article : boeing 367 - 80 the 707 was based on the 367 - 80 " dash 80 " the six - abreast cabin during and after world war ii , boeing was known for its military aircraft .
+trustworthiness:0.8125
+https://en.wikipedia.org/wiki/Boeing_707
+freed from the design constraints imposed by limitations of late - 1940s jet engines , developing a robust , safe , and high - capacity jet aircraft was within reach for boeing .
+trustworthiness:0.8125
+https://www.britannica.com/technology/Boeing-707
+the mid - to long - range narrow - body four - engine aircraft with a swept - wing design was developed and manufactured by the boeing company .
+trustworthiness:0.4375
+https://www.britannica.com/technology/Boeing-707
+boeing continued developing the passenger version of the dash 80 , and in 1955 pan american world airways ( pan am ) ordered 20 boeing 707s .
+trustworthiness:0.4375
+
+
+++++++++++++query+++++++++++++++
+Continental 's long range Boeing 707-324Cs were the most common non-military aircraft transiting Saigon Tan Son Nhat airport ; in 1967 , 39 % of CO 's passenger - miles were on scheduled flights .
++++++++++++++++++++++++++++
+[satellite]https://en.wikipedia.org/wiki/Continental_Airlines
+continental 's long range boeing 707 - 324cs were the most common non-military aircraft transiting saigon tan son nhat airport ; [ 11 ] in 1967 , 39 % of co 's passenger - miles were on scheduled flights .
+trustworthiness:0.0
+https://en.wikipedia.org/wiki/Continental_Airlines
+[ 145 ] silver airways fleet [ edit ] continental 's all - boeing fleet consisted of four types ( 737 , 757 , 767 , and 777 ) in ten variants , with two variants of the boeing 787 dreamliner scheduled to enter service in 2011 .
+trustworthiness:0.0
+
+
+++++++++++++query+++++++++++++++
+In its recent products such as the 787 , Boeing has also received support from local and state governments .
++++++++++++++++++++++++++++
+[boeing, company, aircraft, pdf, air, satellite, united, corporation, companies, its, global, report, washington, ceo, commercial, corporate, former]https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing
+in the 10 years from 2007 to 2016 , airbus received orders for 9,985 aircraft and delivered 5,644 , while boeing received orders for 8,978 aircraft and delivered 5,718 .
+trustworthiness:0.9411764705882353
+https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing
+in its recent products such as the 787 , boeing has also received support from local and state governments .
+trustworthiness:0.9411764705882353
+https://en.wikipedia.org/wiki/Competition_between_Airbus_and_Boeing
+the wto stated that boeing had received at least $ 5.3 billion in illegal cash subsidies at an estimated cost to airbus of $ 45 billion .
+trustworthiness:0.9411764705882353
+https://en.wikipedia.org/wiki/Airbus
+[ 96 ] in a separate ruling in february 2011 , wto found that boeing had received local and federal aid in violation of wto rules .
+trustworthiness:0.9411764705882353
+https://www.nytimes.com/2005/04/12/business/worldbusiness/united-states-and-europe-still-deadlocked-on-jet.html
+brussels argues that boeing has received other forms of support , including government research and development funds for military aircraft and assistance from state and local governments .
+trustworthiness:0.47058823529411764
+https://www.nytimes.com/2005/04/12/business/worldbusiness/united-states-and-europe-still-deadlocked-on-jet.html
+but washington contends that the money boeing has received was for legitimate military research or represented support from local governments , just like the support airbus and other companies have received in the united states and europe for building facilities in favorable locations .
+trustworthiness:0.47058823529411764
+https://www.mdpi.com/2199-8531/7/3/192
+the appearance of the 747 received rave reviews in the aerospace market , and it became one of boeing ’s most iconic models .
+trustworthiness:0.8823529411764706
+https://www.gao.gov/assets/a119978.html
+[ footnote 36 ] currently , u.s. carriers have placed a small proportion ( 40 , or less than 6 percent ) of the over 700 orders that boeing officials say the company has received for its 787 model .
+trustworthiness:0.8235294117647058
+
+
+++++++++++++query+++++++++++++++
+Subsequently , the newer cargo plane livery ( including the current Boeing 747-400F ) has the airline identity painted but otherwise it is painted in white .
++++++++++++++++++++++++++++
+[boeing, aircraft, air, satellite, its, report, annual, commercial, corporate, airlines]https://en.wikipedia.org/wiki/Aircraft_livery
+specialized liveries [ edit ] commemorative liveries [ edit ] south african airways boeing 747 - 300 ndizani el al retro livery for a boeing 787 commemorative liveries are used to celebrate a milestone in an airline ’s history , including anniversaries .
+trustworthiness:0.7
+https://en.wikipedia.org/wiki/Aircraft_livery
+[ citation needed ] south african airways had one of their boeing 747 - 300s specially painted in rainbow colors to transport the south african olympic team to the 2000 summer olympics in sydney , australia .
+trustworthiness:0.7
+https://en.wikipedia.org/wiki/Aircraft_livery
+boeing painted a pre-delivery 747 - 8 to commemorate the seattle seahawks ' 2014 national football conference championship and appearance in super bowl xlviii .
+trustworthiness:0.7
+https://en.wikipedia.org/wiki/El_Al
+by this time , el al was operating a fleet of 20 aircraft , including nine boeing 747s , and had begun replacing its aging boeing 707s with the boeing 757 .
+trustworthiness:0.7
+https://en.wikipedia.org/wiki/El_Al
+[ 134 ] one aircraft , a boeing 787 - 9 dreamliner , is painted in the livery that el al used in the 1960s and 1970s as part of the airline 's 70th year of operations , using a gray belly , white roof with el al titles , a blue cheatline , and the flag of israel on the vertical stabilizer that was introduced with the introduction of the boeing 707 to the el al fleet .
+trustworthiness:0.7
+https://en.wikipedia.org/wiki/El_Al
+subsequently , the most recent cargo plane livery ( a now retired boeing 747 - 400f ) was painted white except for the airline 's name and cargo .
+trustworthiness:0.7
+https://encyclopedia.pub/entry/30664
+south african airways had one of their boeing 747 - 300s specially painted in rainbow colors to transport the south african olympic team to the 2000 summer olympics in sydney , australia .
+trustworthiness:0.7
+
+

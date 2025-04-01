@@ -1,5 +1,3 @@
-key = 'AIzaSyBOAM956qn2q5WPg99XVV0VPOPkuaJZKNs' #Mine
-#key = 'AIzaSyDEG9kgDTx75uhgkQ87qDjne6TRQLIjq60' #Ankit
 import google.generativeai as genai
 import os
 import json
@@ -9,7 +7,7 @@ import asyncio
 from asypage import fetch_multiple_webpages
 from bs4 import BeautifulSoup
 
-genai.configure(api_key='AIzaSyBOAM956qn2q5WPg99XVV0VPOPkuaJZKNs')
+genai.configure(api_key='add yours')
 model = genai.GenerativeModel(model_name='gemini-1.5-flash')
 
 async def asynctxt(urls):

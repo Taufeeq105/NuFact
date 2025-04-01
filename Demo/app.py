@@ -18,7 +18,7 @@ from model import NeuralNetwork
 #
 warnings.filterwarnings('ignore')
 
-genai.configure(api_key='AIzaSyBOAM956qn2q5WPg99XVV0VPOPkuaJZKNs')
+genai.configure(api_key='add yours')
 model = genai.GenerativeModel(model_name='gemini-1.5-flash')
 nlp = spacy.load("en_core_web_sm")
 app = Flask(__name__)

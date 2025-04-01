@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NuFact</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #eef2f3;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      position: relative;
+    }
+
+    .title {
+      text-align: center;
+      margin-bottom: 100px;
+    }
+
+    .main-title {
+      font-size: 48px;
+      font-weight: bold;
+      color: #333;
+    }
+
+    .subtitle {
+      font-size: 24px;
+      color: #555;
+    }
+
+    /* Sidebar Menu */
+    .sidebar {
+      position: fixed;
+      top: 0;
+      left: -250px;
+      width: 250px;
+      height: 100%;
+      background: #333;
+      padding-top: 60px;
+      transition: left 0.3s ease;
+    }
+
+    .sidebar a {
+      display: block;
+      padding: 15px;
+      color: white;
+      text-decoration: none;
+      text-align: center;
+    }
+
+    .sidebar a:hover {
+      background: #575757;
+    }
+
+    .menu-icon {
+      position: absolute;
+      top: 20px;
+      left: 20px;
+      font-size: 30px;
+      cursor: pointer;
+      color: #333;
+    }
+
+    .container {
+      width: 100%;
+      max-width: 500px;
+      background: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+    }
+
+    input {
+      width: 90%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border: 1px solid #dddddd;
+      border-radius: 5px;
+      font-size: 16px;
+    }
+
+    button {
+      padding: 10px 20px;
+      border: none;
+      background-color: #007bff;
+      color: white;
+      font-size: 16px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .response {
+      margin-top: 20px;
+      font-size: 16px;
+      color: #555555;
+    }
+
+    .score {
+      margin-top: 10px;
+      font-size: 18px;
+      color: #28a745;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="title">
+    <span class="main-title">NuFact</span>
+    <br>
+    <span class="subtitle">Validating Numerical Assertions for Knowledge Graphs</span>
+  </div>
+
+  <!-- Sidebar Menu -->
+  <div class="menu-icon" onclick="toggleSidebar()">☰</div>
+  <div class="sidebar" id="sidebar">
+    <a href="#" onclick="showTripleForm()">Enter Triple Option</a>
+    <a href="#" onclick="showStatementForm()">Enter Statement Option</a>
+      
+    <hr style="border: 0.5px solid #575757; margin: 10px 15px;">
+  
+    <a href="#" onclick="setValidationMode('llm')">Only LLM</a>
+    <a href="#" onclick="setValidationMode('without-llm')">Without LLM</a>
+</div>
+  </div>
+
+  <div class="container"> 
+    <h1>Enter the Fact</h1>
+
+    <div id="triple-form">
+      <input type="text" id="subject" placeholder="Enter subject (e.g., Eiffel Tower)">
+      <input type="text" id="relation" placeholder="Enter relation (e.g., height)">
+      <input type="text" id="object" placeholder="Enter object (e.g., meters)">
+      <input type="text" id="quantity" placeholder="Enter quantity (e.g., 300)">
+    </div>
+
+    <div id="statement-form" style="display: none;">
+      <input type="text" id="statement" placeholder="Enter your statement (e.g., The Eiffel Tower is 300 meters tall.)">
+    </div>
+
+    <button onclick="validateAssertion()">Validate</button>
+
+    <div class="response" id="response"></div>
+    <div class="score" id="score"></div>
+  </div>
+
+  <script>
+    function toggleSidebar() {
+      let sidebar = document.getElementById("sidebar");
+      sidebar.style.left = (sidebar.style.left === "0px") ? "-250px" : "0px";
+    }
+
+    function showTripleForm() {
+      document.getElementById("triple-form").style.display = "block";
+      document.getElementById("statement-form").style.display = "none";
+      toggleSidebar();
+    }
+
+    function showStatementForm() {
+      document.getElementById("triple-form").style.display = "none";
+      document.getElementById("statement-form").style.display = "block";
+      toggleSidebar();
+    }
+
+    function validateAssertion() {
+      const subject = document.getElementById('subject')?.value;
+      const relation = document.getElementById('relation')?.value;
+      const object = document.getElementById('object')?.value;
+      const quantity = document.getElementById('quantity')?.value;
+      const statement = document.getElementById('statement')?.value;
+
+      const responseDiv = document.getElementById('response');
+      const scoreDiv = document.getElementById('score');
+
+      let requestData;
+
+      if (document.getElementById("triple-form").style.display !== "none") {
+        if (!subject || !relation || !object || !quantity) {
+          responseDiv.innerText = "Please fill in all fields.";
+          scoreDiv.innerText = "";
+          return;
+        }
+        requestData = { subject, relation, object, quantity };
+      } else {
+        if (!statement) {
+          responseDiv.innerText = "Please enter a statement.";
+          scoreDiv.innerText = "";
+          return;
+        }
+        requestData = { statement };
+      }
+
+      responseDiv.innerText = "Processing...";
+      scoreDiv.innerText = "";
+
+      fetch("/validate", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(requestData),
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (data.error) {
+          responseDiv.innerText = `Error: ${data.error}`;
+          scoreDiv.innerText = "";
+        } else {
+          responseDiv.innerText = `Constructed Assertion: "${data.assertion}"`;
+          scoreDiv.innerText = `Score: ${data.score}`;
+        }
+      })
+      .catch(error => {
+        responseDiv.innerText = "Error connecting to the backend.";
+        scoreDiv.innerText = "";
+        console.error(error);
+      });
+    }
+  </script>
+</body>
+</html>
+

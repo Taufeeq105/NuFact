@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proof Results</title>
+    <style>
+        body { 
+            font-family: Arial, sans-serif; 
+            margin: 20px; 
+            background: #eef2f3; 
+            text-align: center;
+        }
+        .container { 
+            background: #ffffff; 
+            padding: 20px; 
+            border-radius: 8px; 
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); 
+            max-width: 600px; 
+            margin: auto; 
+            text-align: left;
+        }
+        .title {
+            margin-bottom: 20px;
+        }
+        .main-title {
+            font-size: 48px;
+            font-weight: bold;
+            color: #333;
+            display: block;
+        }
+        .subtitle {
+            font-size: 24px;
+            color: #555;
+            display: block;
+        }
+        p { color: #555; }
+        ul { 
+            list-style-type: none; 
+            padding: 0; 
+        }
+        li { 
+            margin: 10px 0; 
+            padding: 12px; 
+            border-bottom: 1px solid #ddd; 
+            word-wrap: break-word;
+        }
+        .proof { 
+            background: #f9f9f9; 
+            padding: 8px; 
+            border-left: 4px solid #007bff; 
+        }
+        a { 
+            color: #007bff; 
+            text-decoration: none; 
+        }
+        a:hover { text-decoration: underline; }
+        table { 
+            width: 100%; 
+            border-collapse: collapse; 
+            margin-top: 20px; 
+        }
+        th, td { 
+            border: 1px solid #ddd; 
+            padding: 8px; 
+            text-align: center; 
+        }
+        th { 
+            background-color: #007bff; 
+            color: white; 
+        }
+        .hidden { display: none; }
+        .expand-btn {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px;
+            cursor: pointer;
+            margin-top: 10px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="title">
+        <span class="main-title">NuFact</span>
+        <span class="subtitle">Validating Numerical Assertions for Knowledge Graphs</span>
+    </div>
+
+    <div class="container">
+        <p><strong>Assertion:</strong> {{ proof_data.assertion or "No assertion available" }}</p>
+        <p><strong>Verdict:</strong> <span style="font-weight: bold; color: black;">{{ proof_data.score if proof_data.score is not none else "N/A" }}</span></p>
+
+        <h3>Evidence Sentences:</h3>
+        <ul>
+            {% if proof_data.proof and proof_data.proof != ["no proof"] %}
+                {% for proof in proof_data.proof[:6] %}
+                    <li class="proof">
+                        {% if proof.startswith("http") %}
+                            <a href="{{ proof }}" target="_blank">{{ proof }}</a>
+                        {% else %}
+                            {{ proof }}
+                        {% endif %}
+                    </li>
+                {% endfor %}
+                <div id="extra-content" class="hidden">
+                    {% for proof in proof_data.proof[2:] %}
+                        <li class="proof">
+                            {% if proof.startswith("http") %}
+                                <a href="{{ proof }}" target="_blank">{{ proof }}</a>
+                            {% else %}
+                                {{ proof }}
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                    
+                    <h3>Feature Vector</h3>
+                    <table>
+                        <tr>
+                            <th>Feature</th>
+                            <th>Value</th>
+                        </tr>
+                        {% for i in range(proof_data.vector|length) %}
+                            <tr>
+                                <td>{{ proof_data.feature_names[i] }}</td>
+                                <td>{{ proof_data.vector[i] }}</td>
+                            </tr>
+                        {% endfor %}
+                    </table>
+                </div>
+                {% if proof_data.proof|length > 2 %}
+                    <button class="expand-btn" onclick="toggleContent()">See More Evidences</button>
+                {% endif %}
+            {% else %}
+                <li>No proof available.</li>
+            {% endif %}
+        </ul>
+        <button class="expand-btn" onclick="toggleContent()">See Feature Vector</button>
+    </div>
+
+    <script>
+        function toggleContent() {
+            var extraContent = document.getElementById("extra-content");
+            var button = document.querySelector(".expand-btn");
+            if (extraContent.style.display === "none" || extraContent.style.display === "") {
+                extraContent.style.display = "block";
+                button.textContent = "Collapse";
+            } else {
+                extraContent.style.display = "none";
+                button.textContent = "Expand";
+            }
+        }
+    </script>
+</body>
+</html>
+

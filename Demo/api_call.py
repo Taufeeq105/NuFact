@@ -1,9 +1,4 @@
-# # Mine
-# api_key1 = 'AIzaSyDaNPgf0eGrh8kzHc-pA88u1lJSB1WDdK0' # paid
-# cse_id1 = '900dcf0e5ff9f4ecb'
-# #Dandriyal
-# api_key1 = 'AIzaSyBujtADqXJR_yibuVbKWGteVhDUesFh4ek'
-# cse_id1 = '233e0cf4f93414b26'
+
 from googleapiclient.discovery import build
 import requests
 import json
@@ -12,8 +7,8 @@ import time
 def google_search(query, num_results=40):
     # Your API key and Custom Search Engine ID
     # Nitesh
-    api_key1 = 'AIzaSyCnuXqAnbOTjKjqPWJCKULhYQEyyhkqW4s'    
-    cse_id1 = 'd77e04c600b184862'
+    api_key1 = 'add yours'    
+    cse_id1 = 'add yours'
     api_key = api_key1
     cse_id = cse_id1
     service = build("customsearch", "v1", developerKey=api_key)

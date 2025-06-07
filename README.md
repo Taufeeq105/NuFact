@@ -8,7 +8,7 @@ ________________________________________________________________
 
 We briefly describe here the folders added to the repository.
 
-Demo: It contains all the codes to create the complete pipeline for NuFact and a web service. 
+Demo: It contains all the codes to create the complete pipeline for NuFact and a web service. \n
 Baseline_reimplimentation: Here we reimplemented HYbridFC to adopt with numeric assertions, specifically, evidence retrieval is updated. 
 Evidence_extraction: It contains the method to extract evidence sentences from the Web using Google API.
 Experiments: It contains the codes for different machine learning models that are used to create NuFact. It also contains the code for preparing the ablation study. 

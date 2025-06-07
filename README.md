@@ -18,4 +18,5 @@ Experiments: It contains the codes for different machine learning models that ar
 
 models: It contains all saved models that are created using different sets of features as discussed in the paper
 
-Data: It contains the training data, negative data created using different perturbations. 
+Data: It contains the training data, negative data created using different perturbations. The data have assertion and their corresponding evidence sentences for both negative & positive cases.
+
